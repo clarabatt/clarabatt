@@ -1,6 +1,10 @@
 ### Hi there 👋
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clara-battesini/) &nbsp;[![Gmail Badge](https://img.shields.io/badge/GMAIL-%23DC322F.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:clarabattesini@gmail.com)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=clarabatt&count_private=true&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clarabatt&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **clarabatt/clarabatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

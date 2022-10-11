@@ -3,7 +3,7 @@
 
 ![GitHub stats](https://github-readme-stats-livid-xi.vercel.app/api?username=clarabatt&count_private=true&show_icons=true&theme=dracula&count_private=true)
 
-[![Top Langs](https://github-readme-stats-livid-xi.vercel.app/top-langs/?username=clarabatt&layout=compact&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-livid-xi.vercel.app/api/top-langs/?username=clarabatt&layout=compact&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **clarabatt/clarabatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

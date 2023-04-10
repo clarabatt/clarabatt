@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on raising [Cubos Academy's](https://cubos.academy) Data department structure as Tech Leader and Software Engineer
+- 🔭 I’m currently working on raising [Cubos Academy's](https://cubos.academy) Data department structure as Technical PM and Software Engineer
 - 🌱 I’m currently learning Data Engineering
 - 📫 I'm living in Toronto, CA
 - 📕 I'm a Computer Programming's program student at Seneca College

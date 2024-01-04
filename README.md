@@ -36,6 +36,10 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+#### Learning
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ![GitHub stats](https://github-readme-stats-livid-xi.vercel.app/api?username=clarabatt&count_private=true&show_icons=true&theme=dracula&count_private=true&card_width=450)
 ![Top Langs](https://github-readme-stats-livid-xi.vercel.app/api/top-langs/?username=clarabatt&layout=compact&theme=dracula&count_private=true&card_width=400&langs_count=8&hide=CMake)

@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 📫 I'm living in Toronto, CA
-- 📕 I'm a Software Engineer that have been working as Technical Program Manager
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clara-battesini/) &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/GMAIL-%23DC322F.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:clarabattesini@gmail.com)
